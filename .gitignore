@@ -1,0 +1,10 @@
+bin
+include
+lib
+custom.orc
+custom.sco
+pip-selfcheck.json
+pyvenv.cfg
+.idea
+.DS_Store
+__pycache__
